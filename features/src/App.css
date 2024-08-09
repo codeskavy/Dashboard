@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background: rgba(255, 255, 255, 1);
+
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+button {
+  cursor: pointer;
+}
+.left-align{
+  text-align: left;
+}
+.blue{
+  color:rgba(16, 140, 255, 1);
+  text-align: right;
+
+}

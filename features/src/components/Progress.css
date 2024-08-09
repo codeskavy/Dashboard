@@ -1,0 +1,40 @@
+.progress {
+    flex: 1;
+    min-width: 300px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    width: 334px;
+    height: 415px;
+    top: 178px;
+    left: 119px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    margin-left: 119px;
+    box-shadow: 0px 2px 17.1px 0px rgba(0, 0, 0, 0.08);
+
+
+  }
+  
+  .test-scores img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .skills-list span {
+    background-color: #e0e0e0;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .current-projects span {
+    display: block;
+    margin: 5px 0;
+  }
